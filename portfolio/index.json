@@ -1,0 +1,37 @@
+{
+    "cloudinaryCloudArea": "fatso83",
+    "projects": [
+        {
+            "id": 1001,
+            "title": "Meny: Middagshjelper'n",
+            "video_ids": ["middagshjelperen.720p_ybntj4"],
+            "labels": ["front-end", "spa"],
+            "year": 2017,
+            "month": 1
+        },
+        {
+            "id": 1002,
+            "title": "Meny: Meny 3.0 - oppskriftssider",
+            "video_ids": ["meny.720p_gc3jzn"],
+            "labels": ["front-end", "episerver"],
+            "year": 2016,
+            "month": 10
+        },
+        {
+            "id": 1003,
+            "title": "Meny/Trumf: Bonusuttak",
+            "video_ids": ["bonus-admin_numr3c"],
+            "labels": ["front-end", "spa", "browserify", "es2015", "NPM"],
+            "year": 2017,
+            "month": 2
+        },
+        {
+            "id": 1004,
+            "title": "Meny: Julelotteri",
+            "video_ids": ["vinn_ymzqf9","tap_um3p3n"],
+            "labels": ["front-end", "back-end", "episerver", "nosql", "spa"],
+            "year": 2016,
+            "month": 11
+        }
+    ]
+}
